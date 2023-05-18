@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "br.com.blandygbc.rh.App",
+            "projectName": "rh"
+        }
+    ]
+}
