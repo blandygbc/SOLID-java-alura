@@ -1,9 +1,10 @@
-package br.com.blandygbc.rh.service;
+package br.com.blandygbc.rh.service.reajuste;
 
 import java.math.BigDecimal;
 import java.util.List;
 
 import br.com.blandygbc.rh.model.Funcionario;
+import br.com.blandygbc.rh.service.ValidacaoReajuste;
 
 public class ReajusteService {
 
